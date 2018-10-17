@@ -1,0 +1,4 @@
+Some usefull optirun commands
+
+optirun -b none nvidia-settings -c :8
+optirun -vv discord

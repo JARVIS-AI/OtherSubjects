@@ -1,0 +1,3 @@
+Some usefull CMD commands
+
+WMIC BASEBOARD
